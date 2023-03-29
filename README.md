@@ -1,4 +1,4 @@
-# PEC-Electromagnetic-Field
+# PEC Electromagnetic Field
 ## Computational Electromagnetics
 
 The purpose of this matlab code simulation is to study the one-dimensional wave equation during the propagation of the electromagnetic field.
